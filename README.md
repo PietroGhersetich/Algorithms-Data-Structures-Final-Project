@@ -8,6 +8,3 @@ La funzione principale richiesta, oltre a quelle di gestione strutture dati (add
 
 Il file "Open.txt" contiene la specifica del programma fornita dai professori.
 Tutto il codice doveva essere scritto in C e in unico file "main.c" senza l'utilizzo di librerie esterne a quelle fornite da C99.
-
-Nella cartella "archivio_test_aperti" sono presenti i file di testo contenenti gli input di test eseguibili in locale.
-Attraverso il file Shell "text.sh" è possibile eseguire tutti i 111 test in sequenza nel terminale evidenziando le differenze tra output atteso e output ottenuto dal main.
